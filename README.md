@@ -3,6 +3,7 @@
 ### Things I'm doing
 - 👨‍💻 Working on finishing my computer science degree. 
 - 🎛️ Focused on creating my first C++ VST plugin.
+- 🎸 Playing guitar.
   
 ### Things I code with 
 - **TypeScript**, **React**, and **CSS** for building responsive and dynamic web applications.
