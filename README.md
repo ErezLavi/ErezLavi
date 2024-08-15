@@ -11,6 +11,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErezLavi)](https://github.com/ErezLavi/github-readme-stats)
 
 
