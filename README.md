@@ -6,7 +6,7 @@
 - Feel free to explore my repositories to see the projects I've worked on!
 
 ### Cool Things I'm doing 
-- 👨‍💻 Building a telemetry system and dashboard for a solar car.
+- 👨‍💻 Building a telemetry system and strategy model for a solar car.
 - 🎛️ Developing my first C++ VST plugin.
 - 🎸 Playing guitar.
   
